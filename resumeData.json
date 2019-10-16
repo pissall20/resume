@@ -5,7 +5,7 @@
     "description":"Machine learning enthusiast strongly inclined towards neural networks, big data and the art of coding.",
     "image":"profilepic.jpg",
     "bio":"I love building data driven products, finding patterns, trends and solving real world problems with data driven insights. I am experienced in all phases of product development such as pre-sales, project management, project delivery, estimation, system analysis, design, operations, development and testing. I am research-oriented and a quick learner with strong background in computer science. Looking forward to meet more like-minded people and to learn more concepts, tools and technologies used in the Big Data and Data Science industry.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"You can get in touch with me for open-source projects, freelance projects, and any exciting work around the technologies I work with.",
     "email": "pisalsiddhesh@gmail.com",
     "phone": "+91-8369593260",
     "address":{
@@ -61,19 +61,22 @@
         "school":"Aegis School of Business, Telecommunication and Data Science jointly certified with IBM",
         "degree":"(PGP) in Data Science, Big Data and Business Analytics",
         "graduated":"2016-2017",
-        "description":"Created ML pipelines for various types of regression, classification, time-series problem statements. Created end-to-end dashboarding solutions using these projects."
+        "description":"Created ML pipelines for various types of regression, classification, time-series problem statements. Created end-to-end dashboarding solutions using these projects.",
+        "bullet_points": []
       },
       {
         "school":"Lords Universal College",
         "degree":"B.Sc.(I.T.)",
         "graduated":"2012-2015",
-        "description":"Created an anti-theft mobile application using Airtel GPS API for precise location tracking."
+        "description":"Created an anti-theft mobile application using Airtel GPS API for precise location tracking.",
+        "bullet_points": []
       },
       {
         "school":"Lords Universal College",
         "degree":"H.S.C. (Bio-I.T.)",
         "graduated":"2010-2012",
-        "description":""
+        "description":"",
+        "bullet_points": []
       }
     ],
     "work":[
@@ -81,19 +84,36 @@
         "company":"Eugenie.ai (Fractal Analytics)",
         "title":"Data Scientist ",
         "years":"October 2017 – Present",
-        "description":"As the founding member of this start-up 'Eugenie.ai' (a subsidiary of Fractal Analytics), my role is to develop the automated insight discovery and anomaly detection capabilities of Eugenie. Major responsibilities include building the product, developing algorithms, backend engineering (optimizing and scaling the performance of existing infrastructure), testing and handling client requirements, engagement and deliveries."
+        "description":"As the founding member of this start-up 'Eugenie.ai' (a subsidiary of Fractal Analytics), my role is to develop the automated insight discovery and anomaly detection capabilities of Eugenie. Major responsibilities include building the product, developing algorithms, backend engineering (optimizing and scaling the performance of existing infrastructure), testing and handling client requirements, engagement and deliveries.",
+        "bullet_points": [
+          "Developed unsupervised anomaly detection algorithms using time-series, isolation and deep learning techniques",
+          "Led development of a completely integrated and automated forecasting engine",
+          "Managed long-term engagements with Fortune 500 companies like Cisco, Reckitt Benckiser, P&G, Unilever, Colgate-Palmolive, Comcast, Coca-cola etc. ",
+          "Worked with an Indian Defense unit for multiple use-cases",
+          "Partnered with business users to equip them to use self-service capabilities in the product",
+          "Led development efforts for real-time forecasting as well as anomaly detection for predictive maintenance"
+        ]
       },
       {
         "company":"Cuddle.ai (Fractal Analytics) ",
         "title":"Data Science Intern",
         "years":"June 2017 – September 2017",
-        "description":"Developed Eugenie as an automated, anomaly based alert system for the business assistant 'Cuddle.ai'. Implemented time series analysis on large-scale data using Python and Spark"
+        "description":"Developed Eugenie as an automated, anomaly based alert system for the business assistant 'Cuddle.ai'.",
+        "bullet_points": [
+          "Implemented time series analysis on large-scale data using Python and Spark",
+          "Implemented a RESTful interface serving to multiple front-ends for multiple clients"
+        ]
       },
       {
         "company":"Furtados Music India Pvt. Ltd. ",
         "title":"Officer – Online Business",
         "years":"June 2017 – September 2017",
-        "description":"Handled online sales by understanding customers’ requirements and helping customers narrow down on suitable products leading a sales team of 4 customer executives. Utilized SQL knowledge to manage data for the online retail website. "
+        "description":"Handled online sales by understanding customers’ requirements and helping customers narrow down on suitable products.",
+        "bullet_points": [
+          "Led a sales team of 4 customer executives.",
+          "Utilized SQL knowledge to manage data for the online retail website.",
+          "Wrote content for descriptions and specifications of various music instruments published on the website (https://www.furtadosonline.com)"
+        ]
       }
     ],
     "skills":[
@@ -147,27 +167,27 @@
     "projects": [
       {
         "title":"Eugenie.ai",
-        "category":"My first end-to-end industry grade product",
-        "image":"canadian-wanderlust.jpg",
+        "category":"An automated insight discovery and anomaly detection engine",
+        "image":"eugenie.jpg",
         "url":"https://app.eugenie.ai"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
+        "title":"Cuddle.ai",
+        "category":"Former mobile business assistant, now an Experiential Analytics product",
+        "image":"cuddle.jpg",
         "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://pissall20.github.io/resume/"
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
       },
       {
         "title":"Smirkspace",
