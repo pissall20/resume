@@ -1,0 +1,192 @@
+{
+  "main": {
+    "name":"Siddhesh Pisal",
+    "occupation":"Data Scientist/Engineer",
+    "description":"Machine learning enthusiast strongly inclined towards neural networks, big data and the art of coding.",
+    "image":"profilepic.jpg",
+    "bio":"I love building data driven products, finding patterns, trends and solving real world problems with data driven insights. I am experienced in all phases of product development such as pre-sales, project management, project delivery, estimation, system analysis, design, operations, development and testing. I am research-oriented and a quick learner with strong background in computer science. Looking forward to meet more like-minded people and to learn more concepts, tools and technologies used in the Big Data and Data Science industry.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pisalsiddhesh@gmail.com",
+    "phone": "+91-8369593260",
+    "address":{
+      "street":"Goregaon East",
+      "city":"Mumbai",
+      "state":"Maharashtra",
+      "zip": "400063"
+    },
+    "website": "http://www.pissall20.github.io",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1uhTyaBE8BQyrV-t8vg_kunhlBdUZaxIH",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/PISS.ALL",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/Babu_Bisleri_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/siddhesh-pisal-073822b9/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/pissall",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/pissall20",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/8805315/pissall",
+        "className":"fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Aegis School of Business, Telecommunication and Data Science jointly certified with IBM",
+        "degree":"(PGP) in Data Science, Big Data and Business Analytics",
+        "graduated":"2016-2017",
+        "description":"Created ML pipelines for various types of regression, classification, time-series problem statements. Created end-to-end dashboarding solutions using these projects."
+      },
+      {
+        "school":"Lords Universal College",
+        "degree":"B.Sc.(I.T.)",
+        "graduated":"2012-2015",
+        "description":"Created an anti-theft mobile application using Airtel GPS API for precise location tracking."
+      },
+      {
+        "school":"Lords Universal College",
+        "degree":"H.S.C. (Bio-I.T.)",
+        "graduated":"2010-2012",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Eugenie.ai (Fractal Analytics)",
+        "title":"Data Scientist ",
+        "years":"October 2017 – Present",
+        "description":"As the founding member of this start-up 'Eugenie.ai' (a subsidiary of Fractal Analytics), my role is to develop the automated insight discovery and anomaly detection capabilities of Eugenie. Major responsibilities include building the product, developing algorithms, backend engineering (optimizing and scaling the performance of existing infrastructure), testing and handling client requirements, engagement and deliveries."
+      },
+      {
+        "company":"Cuddle.ai (Fractal Analytics) ",
+        "title":"Data Science Intern",
+        "years":"June 2017 – September 2017",
+        "description":"Developed Eugenie as an automated, anomaly based alert system for the business assistant 'Cuddle.ai'. Implemented time series analysis on large-scale data using Python and Spark"
+      },
+      {
+        "company":"Furtados Music India Pvt. Ltd. ",
+        "title":"Officer – Online Business",
+        "years":"June 2017 – September 2017",
+        "description":"Handled online sales by understanding customers’ requirements and helping customers narrow down on suitable products leading a sales team of 4 customer executives. Utilized SQL knowledge to manage data for the online retail website. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python / R / Spark / Unix",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript / HTML / CSS",
+        "level":"80%"
+      },
+      {
+        "name":"SQL / Hive / MongoDB / Cassandra",
+        "level":"80%"
+      },
+      {
+        "name":"Django / DRF / Flask / Git",
+        "level":"90%"
+      },
+      {
+        "name":"Kafka / H2o / Dask",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs / Angular",
+        "level":"60%"
+      },
+      {
+        "name":"Scala / C / C++ / Java",
+        "level":"55%"
+      },
+      {
+        "name":"Docker / Kubernetes",
+        "level":"70%"
+      },
+      {
+        "name":"PowerBI / Tableau / QlikSense",
+        "level":"40%"
+      },
+      {
+        "name":"Celery / Redis",
+        "level":"60%"
+      },
+      {
+        "name":"AWS / AZURE / GCP",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Eugenie.ai",
+        "category":"My first end-to-end industry grade product",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://app.eugenie.ai"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Siddhesh is a quick learner and gives a lot of thought to details. He is very hands on with all the concepts that he knows. His dedication and discipline are his key strengths. He takes in all the feedback and suggestions and works on them and tries to improve himself constantly. Very proactive in terms of giving ideas and implementing them. He listens to people and that's a great quality. All the best for future endeavours.",
+        "user":"Kavitha Ganeshan"
+      },
+      {
+        "text":"Siddhesh is an extremely talented and hard-working individual. We have worked together on several projects at Cuddle.AI and what probably makes him shine out amidst the crowd would be his ability to grasp concepts and learning new things at a lightening pace and his hard-working demeanor. He is that one individual who wouldn't back out from accepting a challenge and would burn the midnight oil to get the product delivered right on time.  Not surprisingly enough, he has been the brightest star in the extremely talented small team at Cuddle.AI. I would highly recommend him for his work ethics and his never-say-die attitude.",
+        "user":"Rushabh Shah"
+      }
+    ]
+  }
+}
