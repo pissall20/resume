@@ -184,16 +184,10 @@
         "url":"https://pissall20.github.io/resume/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"El Bodega",
+        "category":"A recommendation engine web-app for wines using K-Means and ALS",
+        "image":"elbodega.jpg",
+        "url":"http://pissall20.pythonanywhere.com"
       }
     ]
   },
