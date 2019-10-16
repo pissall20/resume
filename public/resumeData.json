@@ -2,7 +2,7 @@
   "main": {
     "name":"Siddhesh Pisal",
     "occupation":"Data Scientist/Engineer",
-    "description":"Machine learning enthusiast strongly inclined towards neural networks, big data and the art of coding.",
+    "description":"A machine learning enthusiast strongly inclined towards neural networks, IoT, big data and the art of coding.",
     "image":"profilepic.jpg",
     "bio":"I love building data driven products, finding patterns, trends and solving real world problems with data driven insights. I am experienced in all phases of product development such as pre-sales, project management, project delivery, estimation, system analysis, design, operations, development and testing. I am research-oriented and a quick learner with strong background in computer science. Looking forward to meet more like-minded people and to learn more concepts, tools and technologies used in the Big Data and Data Science industry.",
     "contactmessage":"You can get in touch with me for open-source projects, freelance projects, and any exciting work around the technologies I work with.",
@@ -26,11 +26,6 @@
         "name":"twitter",
         "url":"http://twitter.com/Babu_Bisleri_",
         "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
