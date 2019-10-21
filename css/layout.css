@@ -702,7 +702,7 @@ call-to-action .button {
    font-style: normal;
    line-height: 18px;
    color: #000;
-   font-family: cursive;
+   font-family: 'librebaskerville-italic', serif;
 }
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
