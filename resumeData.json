@@ -15,7 +15,7 @@
       "zip": "400063"
     },
     "website": "http://www.pissall20.github.io",
-    "resumedownload":"https://drive.google.com/uc?export=download&id=1uhTyaBE8BQyrV-t8vg_kunhlBdUZaxIH",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1DLg-himJ8fhWZxljCmf3EYCnV6JIJg7g",
     "social":[
       {
         "name":"facebook",
@@ -79,14 +79,15 @@
         "company":"Eugenie.ai (Fractal Analytics)",
         "title":"Data Scientist ",
         "years":"October 2017 – Present",
-        "description":"As the founding member of this start-up 'Eugenie.ai' (a subsidiary of Fractal Analytics), my role is to develop the automated insight discovery and anomaly detection capabilities of Eugenie. Major responsibilities include building the product, developing algorithms, backend engineering (optimizing and scaling the performance of existing infrastructure), testing and handling client requirements, engagement and deliveries.",
+        "description":"Developing insight discovery and anomaly detection capability. Major responsibilities include building the product, developing algorithms, backend engineering (optimizing performance of existing infrastructure), testing and handling client requirements, engagement and deliveries.",
         "bullet_points": [
-          "Developed unsupervised anomaly detection algorithms using time-series, isolation and deep learning techniques",
-          "Led development of a completely integrated and automated forecasting engine",
-          "Managed long-term engagements with Fortune 500 companies like Cisco, Reckitt Benckiser, P&G, Unilever, Colgate-Palmolive, Comcast, Coca-cola etc. ",
-          "Worked with an Indian Defense unit for multiple use-cases",
-          "Partnered with business users to equip them to use self-service capabilities in the product",
-          "Led development efforts for real-time forecasting as well as anomaly detection for predictive maintenance"
+          "Developed a grid-search based concurrent and automated forecasting engine",
+          "Developed unsupervised anomaly detection algorithms using time-series, isolation and deep learning techniques for batch and streaming data",
+          "Developed predictive maintenance systems using IIoT infrastructure",
+          "Implemented high-volume streaming data pipelines in a distributed architecture",
+          "Managed long-term engagements with Fortune 500 companies like Cisco, Reckitt Benckiser, P&G, Unilever, Colgate-Palmolive, Comcast, Coca-cola etc.",
+          "Worked with Indian Defense units for predictive maintenance and multiple other use-cases",
+          "Mentored 6 research interns"
         ]
       },
       {
@@ -105,9 +106,9 @@
         "years":"April 2014 – Feb 2016",
         "description":"Handled online sales by understanding customers’ requirements and helping customers narrow down on suitable products.",
         "bullet_points": [
-          "Led a sales team of 4 customer executives.",
-          "Utilized SQL knowledge to manage data for the online retail website.",
-          "Wrote content for descriptions and specifications of various music instruments published on the website (https://www.furtadosonline.com)"
+          "Utilized SQL knowledge to manage data for the online retail website",
+          "Efficiently handled customer interactions to understand their specific requirements and successfully converted queries into high value sales",
+          "Over achieved targets by at least 10% every month with a sales team of 4 executives"
         ]
       }
     ],
