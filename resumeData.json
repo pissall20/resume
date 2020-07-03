@@ -15,7 +15,8 @@
       "zip": "400063"
     },
     "website": "http://www.pissall20.github.io",
-    "resumedownload":"https://drive.google.com/open?id=1DfIbIYikCbXmd-LWWxPz538nZEbNM4Qo",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1yjaFlcZq5BWbVgqxDFZc0DVOvIsPAI6t",
+
     "social":[
       {
         "name":"facebook",
@@ -79,15 +80,23 @@
         "company":"Eugenie.ai (Fractal Analytics)",
         "title":"Data Scientist ",
         "years":"October 2017 – Present",
-        "description":"Developing insight discovery and anomaly detection capability. Major responsibilities include building the product, developing algorithms, backend engineering (optimizing performance of existing infrastructure), testing and handling client requirements, engagement and deliveries.",
+        "description":"Cultivating insight discovery, predictive maintenance, and anomaly detection capability. Majo responsibilities include product and algorithm development, testing and handling client requirements, engagement and deliveries.",
         "bullet_points": [
           "Developed a grid-search based concurrent and automated forecasting engine",
           "Developed unsupervised anomaly detection algorithms using time-series, isolation and deep learning techniques for batch and streaming data",
-          "Developed predictive maintenance systems using IIoT infrastructure",
+          "Developed predictive maintenance systems for IIoT infrastructure",
           "Implemented high-volume streaming data pipelines in a distributed architecture",
-          "Managed long-term engagements with Fortune 500 companies like Cisco, Reckitt Benckiser, P&G, Unilever, Colgate-Palmolive, Comcast, Coca-cola etc.",
+          "Responsible for long-term engagements with Fortune 500 companies like Cisco, Reckitt Benckiser, P&amp;G, Unilever, Colgate-Palmolive, Comcast, Coca-cola, etc.",
           "Worked with Indian Defense units for predictive maintenance and multiple other use-cases",
-          "Mentored 6 research interns"
+          "Mentored 6 research interns and helped hone their algorithm writing skills and machine learning knowledge by applying them in various projects done by Eugenie"
+        ]
+      },
+      {
+        "company":"Upgrad.com",
+        "title":"Live Sessions Xpert",
+        "years":"March 2020 – Present",
+        "description":"Conducting online training sessions on data science and big data.",
+        "bullet_points": [
         ]
       },
       {
@@ -171,7 +180,7 @@
         "title":"Cuddle.ai",
         "category":"Former mobile business assistant, now an Experiential Analytics product",
         "image":"cuddle.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://cuddle.ai/"
       },
       {
         "title":"Resume Website",
@@ -189,6 +198,10 @@
   },
   "testimonials":{
     "testimonials":[
+    	      {
+      	"text":"Siddhesh  is someone, I'd like to term master of many trades and jack of all. I worked with him at Eugenie which is an AI backend decision engine. He is rare combination of a good data scientist and full stack developer. He's the person who triggered my learning in Big Data. Working with Siddhesh feels natural because he is so good at brainstorming which I experienced while we were redesigning the backend and frontend of Eugenie. While being the developer of Eugenie, he also took up the responsibility of consulting with current and prospective clients of Eugenie. It was remarkable to observe him juggle so many roles seamlessly.",
+      	"user": "Subhash Sundaravadivelu"
+      },
       {
         "text":"Siddhesh is a quick learner and gives a lot of thought to details. He is very hands on with all the concepts that he knows. His dedication and discipline are his key strengths. He takes in all the feedback and suggestions and works on them and tries to improve himself constantly. Very proactive in terms of giving ideas and implementing them. He listens to people and that's a great quality. All the best for future endeavours.",
         "user":"Kavitha Ganeshan"
