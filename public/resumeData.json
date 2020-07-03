@@ -97,8 +97,6 @@
         "years":"March 2020 – Present",
         "description":"Conducting online training sessions on data science and big data.",
         "bullet_points": [
-          "Implemented time series analysis on large-scale data using Python and Spark",
-          "Implemented a RESTful interface serving to multiple front-ends for multiple clients"
         ]
       },
       {
@@ -182,7 +180,7 @@
         "title":"Cuddle.ai",
         "category":"Former mobile business assistant, now an Experiential Analytics product",
         "image":"cuddle.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://cuddle.ai/"
       },
       {
         "title":"Resume Website",
@@ -200,6 +198,10 @@
   },
   "testimonials":{
     "testimonials":[
+    	      {
+      	"text":"Siddhesh  is someone, I'd like to term master of many trades and jack of all. I worked with him at Eugenie which is an AI backend decision engine. He is rare combination of a good data scientist and full stack developer. He's the person who triggered my learning in Big Data. Working with Siddhesh feels natural because he is so good at brainstorming which I experienced while we were redesigning the backend and frontend of Eugenie. While being the developer of Eugenie, he also took up the responsibility of consulting with current and prospective clients of Eugenie. It was remarkable to observe him juggle so many roles seamlessly.",
+      	"user": "Subhash Sundaravadivelu"
+      },
       {
         "text":"Siddhesh is a quick learner and gives a lot of thought to details. He is very hands on with all the concepts that he knows. His dedication and discipline are his key strengths. He takes in all the feedback and suggestions and works on them and tries to improve himself constantly. Very proactive in terms of giving ideas and implementing them. He listens to people and that's a great quality. All the best for future endeavours.",
         "user":"Kavitha Ganeshan"
@@ -207,10 +209,6 @@
       {
         "text":"Siddhesh is an extremely talented and hard-working individual. We have worked together on several projects at Cuddle.ai and what probably makes him shine out amidst the crowd would be his ability to grasp concepts and learning new things at a lightening pace and his hard-working demeanor. He is that one individual who wouldn't back out from accepting a challenge and would burn the midnight oil to get the product delivered right on time.  Not surprisingly enough, he has been the brightest star in the extremely talented small team at Cuddle.ai. I would highly recommend him for his work ethics and his never-say-die attitude.",
         "user":"Rushabh Shah"
-      },
-      {
-      	"text":"Siddhesh  is someone, I'd like to term master of many trades and jack of all. I worked with him at Eugenie which is an AI backend decision engine. He is rare combination of a good data scientist and full stack developer. He's the person who triggered my learning in Big Data. Working with Siddhesh feels natural because he is so good at brainstorming which I experienced while we were redesigning the backend and frontend of Eugenie. While being the developer of Eugenie, he also took up the responsibility of consulting with current and prospective clients of Eugenie. It was remarkable to observe him juggle so many roles seamlessly.",
-      	"user": "Subhash Sundaravadivelu"
       }
     ]
   }
