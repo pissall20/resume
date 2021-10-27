@@ -15,7 +15,7 @@
       "zip": "400063"
     },
     "website": "http://www.pissall20.github.io",
-    "resumedownload":"https://drive.google.com/uc?export=download&id=1yjaFlcZq5BWbVgqxDFZc0DVOvIsPAI6t",
+    "resumedownload":"https://docs.google.com/document/d/1nj9bMa5N49qN8pJ-XTZHDKhWuGMLVgdm/export?format=doc",
 
     "social":[
       {
@@ -75,16 +75,34 @@
         "bullet_points": []
       }
     ],
-    "work":[
+    "work":[{
+        "company":"Fractal Analytics",
+        "title":"Senior Engineer",
+        "years":"October 2021 – Present",
+        "description":"Development of AI/ML and big data capabilities and solutions to support multiple clients of the organization.",
+        "bullet_points": [
+        ]
+      },{
+        "company":"Bajaj Allianz General Insurance Company",
+        "title":"Lead Data Scientist ",
+        "years":"September 2020 – October 2021",
+        "description":"Leading development of AI/ML products and solutions supporting multiple teams in the organization. Responsible for understanding business problems of stakeholders and analysing data to identify and feasibly implement use-cases facilitating the detection of pain points and enabling teams to achieve goal oriented results.",
+        "bullet_points": [
+          "Developed product RuralMet, a robust Indian street address parser with >70% high confidence results to classify rural addresses according to the Census and report insurance penetration in rural areas meeting IRDAI compliance and avoid penalty.",
+          "Developed product BAGICMaps, a Risk Profiling GIS for Property Underwriting",
+          "Implemented a generic keyword-based leads generation tool using Selenium to find prospective tie-ups to upsell insurance (reducing cost to 0 as opposed to Rs.0.5/lead from vendor)",
+          "Suggesting Cross-Sell products to business channels using AI-powered customer segmentation and profiling"
+        ]
+      },
       {
         "company":"Eugenie.ai (Fractal Analytics)",
         "title":"Data Scientist ",
         "years":"October 2017 – Present",
-        "description":"Cultivating insight discovery, predictive maintenance, and anomaly detection capability. Majo responsibilities include product and algorithm development, testing and handling client requirements, engagement and deliveries.",
+        "description":"Cultivating insight discovery, predictive maintenance, and anomaly detection capability. Major responsibilities include product and algorithm development, testing and handling client requirements, engagement and deliveries.",
         "bullet_points": [
-          "Developed a grid-search based concurrent and automated forecasting engine",
+          "Devised a grid-search based concurrent and automated forecasting engine",
           "Developed unsupervised anomaly detection algorithms using time-series, isolation and deep learning techniques for batch and streaming data",
-          "Developed predictive maintenance systems for IIoT infrastructure",
+          "Established predictive maintenance systems for IIoT infrastructure",
           "Implemented high-volume streaming data pipelines in a distributed architecture",
           "Responsible for long-term engagements with Fortune 500 companies like Cisco, Reckitt Benckiser, P&amp;G, Unilever, Colgate-Palmolive, Comcast, Coca-cola, etc.",
           "Worked with Indian Defense units for predictive maintenance and multiple other use-cases",
@@ -199,16 +217,19 @@
   "testimonials":{
     "testimonials":[
     	      {
+        "text":"Siddhesh is one of the rarest types of professionals who can wear multiple hats as and whenever needed for the product or the organization. He started working with me as an intern. His honesty towards the work and his willingness to learn would makes him an ideal leader in any organization. He is also a great team player and trusted associated. He is an asset to any engineering/data science team. I wish him continued success in his career and life.",
+        "user": "Soudip Roy Chowdhury - CEO of Eugenie.ai"
+      },{
       	"text":"Siddhesh  is someone, I'd like to term master of many trades and jack of all. I worked with him at Eugenie which is an AI backend decision engine. He is rare combination of a good data scientist and full stack developer. He's the person who triggered my learning in Big Data. Working with Siddhesh feels natural because he is so good at brainstorming which I experienced while we were redesigning the backend and frontend of Eugenie. While being the developer of Eugenie, he also took up the responsibility of consulting with current and prospective clients of Eugenie. It was remarkable to observe him juggle so many roles seamlessly.",
       	"user": "Subhash Sundaravadivelu"
       },
       {
         "text":"Siddhesh is a quick learner and gives a lot of thought to details. He is very hands on with all the concepts that he knows. His dedication and discipline are his key strengths. He takes in all the feedback and suggestions and works on them and tries to improve himself constantly. Very proactive in terms of giving ideas and implementing them. He listens to people and that's a great quality. All the best for future endeavours.",
-        "user":"Kavitha Ganeshan"
+        "user":"Kavitha Ganeshan - AI Principal at Accenture"
       },
       {
         "text":"Siddhesh is an extremely talented and hard-working individual. We have worked together on several projects at Cuddle.ai and what probably makes him shine out amidst the crowd would be his ability to grasp concepts and learning new things at a lightening pace and his hard-working demeanor. He is that one individual who wouldn't back out from accepting a challenge and would burn the midnight oil to get the product delivered right on time.  Not surprisingly enough, he has been the brightest star in the extremely talented small team at Cuddle.ai. I would highly recommend him for his work ethics and his never-say-die attitude.",
-        "user":"Rushabh Shah"
+        "user":"Rushabh Shah - Author and Senior Engineer at Fynd"
       }
     ]
   }
